@@ -13,6 +13,7 @@ Iridium is a Object-Oriented Programming Language Designed to be Simple and Powe
 # Syntax (unfinished)
 
 ## Startup
+### JavaScript Build
 Make sure you have Iridium installed or NodeJS, and then, when it prompts you to do a command:
 ```>>> ```
 Type in:
@@ -21,12 +22,19 @@ Type in:
 ```
 You can use literally any extension, but `.iri` is usually used as not to interrupt the compilers/interpreters of other languages.
 
+### Csharp build
+Download the installer (Iridium.exe). After it is finished, run the application. It will prompt you with this:
+```>>> ```
+Type in:
+```shell
+>>> iri -c path/to/file.iri
+```
+You can use literally any extension, but `.iri` is usually used as not to interrupt the compilers/interpreters of other languages.
 
 ## ~~Enviroment Variables~~
-~~advanced-mode = true. //sets advanced syntax to true. Includes Linux command support and C-Like syntax~~
-~~graphics-mode = true. //sets the graphics_EngineOn internal variable to true~~
-```web_mode = true. // make a web with Iridium```
-~~shell = true. // sets a shell loop after every program runs.~~
+
+```graphics-enabled = true.
+```web_enabled = true. // make a web with Iridium```
 
 ## Output:
 ```
