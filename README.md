@@ -33,7 +33,7 @@ You can use literally any extension, but `.iri` is usually used as not to interr
 
 ## ~~Enviroment Variables~~
 
-```graphics-enabled = true.
+```graphics-enabled = true.```
 ```web_enabled = true. // make a web with Iridium```
 
 ## Output:
@@ -81,6 +81,7 @@ static method_name(arg1,arg2){
 Console.In().
 ```
 ## Math
+
 ```
 a = 2 + 2.
 math.sqrt(5).
